@@ -3,6 +3,7 @@
 Здесь публикуются все статьи и руководства по LibreOffice в формате ODT.
 
 Опубликованные руководства:
+* Руководство по LibreOffice Math
 * LibreOffice Writer: Функция «Автотекст».odt
 * LibreOffice: Установка расширений.odt
 
