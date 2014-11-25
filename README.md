@@ -1,15 +1,11 @@
 Руководства и статьи по LibreOffice
 ===============================
-Здесь публикуются все статьи и руководства по LibreOffice в формате ODT.
+Здесь публикуются руководства по LibreOffice в формате ODT. В основном репозиторий используется для облегчения работы над руководствами. Давать ссылки на готовые руководства лучше ссылаясь на [Блог про LibreOffice](http://librerussia.blogspot.ru "Блог про LibreOffice").
 
 Опубликованные руководства:
 * Руководство по LibreOffice Math
 * LibreOffice Writer: Функция «Автотекст».odt
 * LibreOffice: Установка расширений.odt
 
-Опубликованные статьи:
-* LibreOffice Math: Пример ввода формул (#1).odt
-* LibreOffice: Создание PDF с формами для заполнения.odt
-* LibreOffice: Пример использования стилей. Поиск и замена стилей.odt
-* LibreOffice Writer: Продолжение таблицы (3 способа).odt
+Блог про LibreOffice: http://librerussia.blogspot.ru
 
